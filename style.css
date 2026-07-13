@@ -47,7 +47,6 @@ ul li a{
     color: aliceblue;
     border: 1px solid white;
     cursor: pointer;
-
 }
 .herro-section{
     background-image:linear-gradient(180deg,rgba(0,0,0,0.6)0%,rgba(0,0,0,0.88)100%),url('images/banner.jpg');
@@ -84,7 +83,7 @@ ul li a{
     line-height: 1.6;
     margin-bottom: 35px;
 }
-/*  */
+/* Meet the Speakers section */
 .speakers{
     text-align:left;
 }
@@ -140,7 +139,7 @@ ul li a{
     margin-top: 2px;
     font-weight: bold;
 }
-/*gyug*/
+/*Secure your Spot*/
 .pring-section{
     text-align: center;
     padding: 60px 20px;
@@ -232,6 +231,7 @@ ul li a{
     font-size: 18px;
     line-height: 14px;
 }
+/* footer section*/
 .footer{
     background-color: #0f172a;
     padding: 20px 0;
