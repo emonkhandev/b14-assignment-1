@@ -232,36 +232,6 @@ ul li a{
     font-size: 18px;
     line-height: 14px;
 }
-/*.pring-conting{
-    display: grid;
-    grid-template-columns: repeat(3,1fr);
-    gap: 20px;
-    grid-template-areas: 
-    " emon roman miraz";
-    margin: auto;
-}
-.pricing-1{
-    grid-area: emon;
-}
-.pricing-2{
-    grid-area: roman;
-}
-.pricing-3{
-    grid-area: miraz;
-}
-.pricing-1{
-    border: 1px solid black;
-    border-radius: 16px;
-    text-align: left;
-    display: flex;
-}
-.feature{
-    list-style: none;
-    padding: 0;
-    margin:  0 0 40px 0;
-    flex-grow: 1;
-}*/
-/* */
 .footer{
     background-color: #0f172a;
     padding: 20px 0;
